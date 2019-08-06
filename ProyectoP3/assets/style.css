@@ -1,0 +1,22 @@
+.mimenu li{
+   display:inline;
+}
+.master{
+  height: 5px;
+  border: 0;
+  background-color: red;
+}
+.admin{
+  height: 5px;
+  border: 0;
+  background: green;
+}
+.cliente{
+  height: 5px;
+  border: 0;
+  background: blue;
+}
+
+img.pequena{
+  width: 30px; height: 30px;
+}
